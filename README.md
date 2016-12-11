@@ -1,2 +1,2 @@
 # MexicoCentroids
-Fetching mexico states wich centroid is near Mexico's capital centroid.
+Código simple en R como ejemplo para hacer minería espacial en R.
